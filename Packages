@@ -1,13 +1,9 @@
 Package: com.cassyee.desaturate
-Version: 1.0
-Section: Themes
-Maintainer: cassyee <cassieknightrodriguez@gmail.com>
-Depends: firmware (>7.0), com.sparkdev.snowboard
-Architecture: iphoneos-arm
-Filename: ./debs/com.cassyee.desaturate_1.0_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: Personal Android port
 Name: Desaturate
-Author: cassyee <cassieknightrodriguez@gmail.com>
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Personal Android port
 Depiction: https://cassyee.github.io/repo/depictions/?p=com.cassyee.desaturate
+Maintainer: cassyee <cassieknightrodriguez@gmail.com>
+Author: cassyee <cassieknightrodriguez@gmail.com>
+Section: Themes
